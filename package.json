@@ -32,5 +32,20 @@
   },
   "engines": {
     "node": ">=18"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/griffinwork40/alpaca-cli.git"
+  },
+  "keywords": [
+    "alpaca",
+    "trading",
+    "stocks",
+    "options",
+    "crypto",
+    "cli",
+    "market-data"
+  ],
+  "license": "MIT",
+  "author": "Griffin Long"
 }
